@@ -31,7 +31,7 @@ USB programming interface with CP2102<br/>
 
 [Link to the original speeduino project](https://www.speeduino.com "speeduino homepage")<br/>
 <br/>
-Quick link to Rev0.0.1 schematic: https://github.com/oelprinz-org/Gewitterbox/blob/master/hardware/Rev0.0.1/schematics_gewitterbox_v0.0.1.pdf <br/>
+Quick link to Rev0.0.1 schematic: https://github.com/oelprinz-org/Gewitterbox/blob/master/hardware/Rev0.0.1/schematics_gewitterbox_V0.0.1.pdf <br/>
 
 Quick link to Rev0.0.1 iBOM: http://oelprinz.org/products/Gewitterbox/hardware/V0.0.1/iBOM/ibom.html <br/>
 
