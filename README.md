@@ -1,4 +1,4 @@
-# blitzBOX - V0.0.1 - First draft<br/>
+# Gewitterbox - V0.0.1 - First draft<br/>
 <br/>
 low-cost and small-sized ECU for speeduino firmware (Rev0.0.1 80 x 94 mm)<br/>
 Integrated Wideband Lambda Controller with Bosch CJ125 and LSU 4.9<br/>
@@ -21,6 +21,7 @@ Onboard Wideband Lambda Controller with Bosch CJ125 (LSU 4.9)<br/>
 1 tacho out<br/>
 1 boost out (optional with IGN_D out)<br/>
 1 fan out<br/>
+1 idle stepper out
 
 USB programming interface with CP2102<br/>
 
