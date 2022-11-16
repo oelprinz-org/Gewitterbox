@@ -39,7 +39,7 @@ Quick link to Rev0.0.1 iBOM: http://oelprinz.org/products/Gewitterbox/hardware/V
   <br/>
   <img src="hardware/Rev0.0.1/_top.png" width="710" alt="Board-Gewitterbox-V0.0.1_top"><br/>
   <img src="hardware/Rev0.0.1/_bottom.png" width="710" alt="Board-Gewitterbox-V0.0.1_bottom"><br/>
-  <img src="hardware/Rev0.0.1/_.png" width="710" alt="Board_Gewitterbox_2022-11-16.png"><br/>
+  <img src="hardware/Rev0.0.1/Board_Gewitterbox_2022-11-16.png" width="710" alt="Board_Gewitterbox-V0.0.1"><br/>
   <img src="hardware/Rev0.0.1/top.png" width="350" title="top">
   <img src="hardware/Rev0.0.1/bottom.png" width="350" alt="bottom"><br/>
   <img src="hardware/Rev0.0.1/internal_plane1.png" width="350" title="Internal Plane 1">
