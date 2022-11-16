@@ -46,6 +46,7 @@ Quick link to Rev0.0.1 iBOM: http://oelprinz.org/products/Gewitterbox/hardware/V
   <img src="hardware/Rev0.0.1/internal_plane2.png" width="350" title="Internal Plane 2">
   <img src="hardware/Rev0.0.1/top_layer.png" width="350" title="top_layer">
   <img src="hardware/Rev0.0.1/bottom_layer.png" width="350" alt="bottom_layer">
+  <img src="hardware/Rev0.0.1/48pin_aluminium_enclosure.png" width="710" alt="aluminium enclosure"><br/>
   <img src="hardware/Rev0.0.1/assembly_solderside.png" width="710" alt="assembly_solderside"><br/>
   <img src="hardware/Rev0.0.1/assembly_bottomside.png" width="710" alt="assembly_bottomside"><br/>
 </p>
