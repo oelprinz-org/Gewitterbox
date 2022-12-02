@@ -10,8 +10,8 @@ supports 8 cylinder full sequential<br/>
 1 crankshaft sensor with MAX9926 VR-conditioner (optional Hall Input without MAX9926)<br/>
 1 hall input for camshaft sensor<br/>
 7 analog inputs: CLT, IAT, TPS, BAT, LMM, MAP, Spare 0-5V with optional bias resistor<br/>
-1 baro sensor MPXH6400A<br/>
-1 MAP sensor MPXH6400A<br/>
+1 baro sensor MPXH6115A/MPXHZ6250A/MPXH6300A/MPXH6400A<br/>
+1 MAP sensor MPXH6115A/MPXHZ6250A/MPXH6300A/MPXH6400A<br/>
 1 digital input for disco swaggering (aka. launch control)<br/>
 
 Onboard Wideband Lambda Controller with Bosch CJ125 (LSU 4.9)<br/>
