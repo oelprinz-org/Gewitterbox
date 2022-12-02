@@ -9,7 +9,7 @@ supports 8 cylinder full sequential<br/>
 8 active ignition coils<br/>
 1 crankshaft sensor with MAX9926 VR-conditioner (optional Hall Input without MAX9926)<br/>
 1 hall input for camshaft sensor<br/>
-6 analog inputs: CLT, IAT, TPS, BAT, LMM, MAP<br/>
+7 analog inputs: CLT, IAT, TPS, BAT, LMM, MAP, Spare 0-5V with optional bias resistor<br/>
 1 baro sensor MPXH6400A<br/>
 1 MAP sensor MPXH6400A<br/>
 1 digital input for disco swaggering (aka. launch control)<br/>
@@ -21,7 +21,7 @@ Onboard Wideband Lambda Controller with Bosch CJ125 (LSU 4.9)<br/>
 1 tacho out<br/>
 1 boost out<br/>
 1 fan out<br/>
-1 idle stepper out
+1 idle stepper motor out<br/>
 
 USB programming interface with CP2102<br/>
 
