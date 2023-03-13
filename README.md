@@ -26,7 +26,7 @@ Onboard Wideband Lambda Controller with Bosch CJ125 (LSU 4.9)<br/>
 USB programming interface with CP2102<br/>
 
 16.11.2022: First draft V0.0.1 - More infos coming soon....<br/>
-13.03.2023: Second draft V0.0.2 - stay tuned....<br/>
+13.03.2023: Second draft V0.0.2 - changed wideband lambda controller to same design as in Blitzbox<br/>
 
 
 
