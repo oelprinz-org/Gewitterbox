@@ -31,6 +31,6 @@
       pinStepperDir = PE12; //Direction pin  for DRV8825 driver
       pinStepperStep = PE11; //Step pin for DRV8825 driver
       /////pinStepperEnable = 30; //Enable pin for DRV8825 driver
-      pinBoost = PC14; //Boost control
+      //doesnt work//////pinBoost = PC14; //Boost control
       /////pinSpareLOut1 = 49; //enable Wideband Lambda Heater
       pinFan = PC13; //Pin for the fan output
