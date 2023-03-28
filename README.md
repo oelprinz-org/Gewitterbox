@@ -1,4 +1,5 @@
 # Gewitterbox - V0.0.2 - second draft<br/>
+not ready for production!
 <br/>
 low-cost and small-sized ECU for speeduino firmware (Rev0.0.2 80 x 94 mm)<br/>
 Integrated Wideband Lambda Controller with Bosch CJ125 and LSU 4.9<br/>
