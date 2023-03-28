@@ -2126,7 +2126,7 @@ void setPinMapping(byte boardID)
       pinTrigger = PA5; //The CRANK Sensor pin
       pinTrigger2 = PC6; //The Cam Sensor pin
       pinTPS = PA6; //TPS input pin
-      /////xxxxpinO2 = A2; //O2 Sensor pin
+      pinO2 = PA3; //O2 Sensor pin
       pinIAT = PB1; //IAT sensor pin
       pinCLT = PC5; //CLT sensor pin
       pinMAP = PA6; //internal MAP sensor
